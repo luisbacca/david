@@ -1,2 +1,2 @@
 # david
-misc
+Root project for different tech samples
