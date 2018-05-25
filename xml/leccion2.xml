@@ -1,2 +1,7 @@
-gasdhjgasjdg
-adjhakdhkadadhd
+<?xml version="1.0" encoding="UTF-8"?>
+<persona>
+    <nombres>Luis Felipe</nombres>
+    <apellidos>Bacca Arango</apellidos>
+    <edad>40</edad>
+    <email>luisbacca@gmail.com</email>
+</persona>
