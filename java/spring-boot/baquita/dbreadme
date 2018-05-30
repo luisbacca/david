@@ -1,0 +1,6 @@
+https://spring.io/guides/gs/accessing-data-mysql/
+
+create database lavadero;
+create user 'springuser'@'localhost' identified by 'ThePassword';
+grant all on lavadero.* to 'springuser'@'localhost';
+
